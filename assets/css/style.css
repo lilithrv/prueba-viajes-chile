@@ -43,3 +43,7 @@ hr {
 #about i {
   font-size: 20px;
 }
+
+.form-label {
+  font-weight: 100;
+}
