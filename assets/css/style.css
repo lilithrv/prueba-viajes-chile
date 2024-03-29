@@ -6,6 +6,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   background-color: black;
+  color: #fff;
 }
 
 nav {
@@ -26,12 +27,19 @@ nav {
   object-fit: cover;
 }
 
-#highlights h2 {
+h2 {
   font-weight: 700;
-  color: #fff;
 }
 
 hr {
   height: 2px;
   background-color: #565454;
+}
+
+#about p {
+  text-align: justify;
+}
+
+#about i {
+  font-size: 20px;
 }
