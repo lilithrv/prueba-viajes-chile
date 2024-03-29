@@ -14,3 +14,7 @@ nav {
 .nav-link {
   color: white;
 }
+
+.carousel-item img {
+  height: 40rem;
+}
