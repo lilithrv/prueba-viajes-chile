@@ -47,3 +47,8 @@ hr {
 .form-label {
   font-weight: 100;
 }
+
+.custom-tooltip .tooltip-inner {
+  background-color: #fff;
+  color: #2ea4ae;
+}
