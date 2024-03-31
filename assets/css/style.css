@@ -10,8 +10,14 @@ body {
 }
 
 nav,
-footer {
+footer,
+.about-icon,
+.card {
   background-color: #2ea4ae;
+}
+
+.card {
+  color: #fff;
 }
 
 .nav-link {
